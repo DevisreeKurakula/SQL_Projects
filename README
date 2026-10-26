@@ -1,0 +1,29 @@
+----- E-COMMERCE SALES ANALYSIS USING ORACLE SQL -----
+
+--- Project Overview
+This project analyzes e-commerce data using Oracle SQL.This is my first SQL portfolio project.I used Oracle SQL to analyze
+sample e-commerce data and answer business-related questions about customers,products,orders,and sales revenue.
+
+-- Database Tabels
+1.Customers
+2.Products
+3.Orders
+4.Order_items
+
+--- SQL Concepts used
+Select and Where
+Order by
+Group by
+Aggregate Functions
+Joins
+
+-- Tools Used
+1.Oracle Live SQL
+2.Visual Studio Code
+
+-- Learning Outcome
+Through this project,I practiced writing SQL queries,connecting related tables using JOINs,summarizing data using aggregate functions,
+and answering basic business questions.
+
+-- Author
+SQL Portfolio Project - Beginner Level
